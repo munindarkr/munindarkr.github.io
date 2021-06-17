@@ -4,8 +4,41 @@ title: Munindar Meena
 
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Atlanta, Georgia 
   <br><br>
-  Second description 
+  Graduate Student at <strong><a target="_blank" href="https://www.gatech.edu">Georgia Institute of Technology</a></strong> 
+  <br>
+  Quantitative & Computational Finance
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <table width="100%">
+            <tbody><tr>
+                <td class="valign-top"><strong>office</strong></td>
+                <td>Atlanta, GA 30308, USA.
+                </td>
+            </tr>
+            <tr>
+                <td class="valign-top"><strong>email</strong></td>
+                <td>
+                    mmeena3 [at] gatech.edu
+                    <br> munindar.kumar [at] outlook.com
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td class="valign-top"><strong>phone</strong></td>
+                <td>+1 (404) 901-3294</td>
+            </tr>
+            <tr>
+                <td><strong>connect</strong></td>
+                <td>
+                    <a target="_blank" title="Github" href="https://www.github.com/munindarkr/"><img class="social-media-icon" src="img/icons/github.png"></a>
+                    <a target="_blank" title="Linkedin" href="https://www.linkedin.com/in/munindarkr/"><img class="social-media-icon" src="img/icons/linkedin.png"></a>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>resume</strong></td>
+                <td>
+                    <a href="docs/CV_Quant_Munindar_GeorgiaTech.pdf" download="">Download</a>&nbsp;
+                </td>
+            </tr>
+        </tbody></table>
