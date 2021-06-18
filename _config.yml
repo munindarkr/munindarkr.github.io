@@ -4,15 +4,18 @@ title: Munindar Meena
 
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Atlanta, Georgia 
-  <br><br>
-  Graduate Student at <strong><a target="_blank" href="https://www.gatech.edu">Georgia Institute of Technology</a></strong> 
+  MS, Quant & Computational Finance
   <br>
-  Quantitative & Computational Finance
+  <strong><a target="_blank" href="https://www.gatech.edu">Georgia Tech</a></strong> 
+  <br>
+  BS, Electrical Engineering<br>
+  Minor, Management Science<br>
+  <strong><a target="_blank" href="https://www.iitmandi.ac.in/">IIT Mandi</a></strong> 
+  
   <br><br>
   <table width="100%">
             <tbody><tr>
-                <td class="valign-top"><strong>office</strong></td>
+                <td class="valign-top"><strong>location</strong></td>
                 <td>Atlanta, GA 30308, USA.
                 </td>
             </tr>
@@ -31,8 +34,8 @@ description: > # your text below (remove <br> elements if you don't need line br
             <tr>
                 <td><strong>connect</strong></td>
                 <td>
-                    <a target="_blank" title="Github" href="https://www.github.com/munindarkr/"><img class="social-media-icon" src="img/icons/github.png"></a>
-                    <a target="_blank" title="Linkedin" href="https://www.linkedin.com/in/munindarkr/"><img class="social-media-icon" src="img/icons/linkedin.png"></a>
+                    <a target="_blank" title="Github" href="https://www.github.com/munindarkr/"><img class="fa" src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+                    <a target="_blank" title="Linkedin" href="https://www.linkedin.com/in/munindarkr/"><img class="fa" src="https://img.icons8.com/ios/50/000000/linkedin.png"></a>
                 </td>
             </tr>
             <tr>
