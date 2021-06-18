@@ -1,10 +1,10 @@
 @import "{{ site.theme }}";
 
-img.dp {
+/* img.dp {
     max-width: 5px;
     max-height: 5px;
     /* border-radius: 50%; */
-}
+} */
 
 .fa {  
     padding: 20px;  
