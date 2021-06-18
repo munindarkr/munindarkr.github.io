@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: Munindar Meena
 
-logo: "/images/logo.jpg?raw=true"
+# logo: "/images/logo.jpg?raw=true"
 description: >
   MS, Quant & Computational Finance
   <br>
