@@ -1,20 +1,20 @@
 # Projects
 ### Index
-- Machine Learning Projects
+- Machine Learning in Finance
+- Deep Learning in Finance
+- Reinforcement Learning in Finance
 - Trading Strategies Research
-- Portfolio Management Mini-Projects
-- Market Microstructure/HFT/Execution Services
+- Portfolio Management using ML
+- Market Microstructure/HFT/Execution Strat
 - Trading Infrastructure
-- Data Science
-- Deep Learning
-- Web Development (Hobby Projects)
+- Web Development
 
-## Machine Learning Projects
+## Machine Learning in Finance
+## Deep Learning in Finance
+## Reinforcement Learning in Finance
 ## Trading Strategies Research
-## Portfolio Management Mini##Projects
-## Market Microstructure/HFT/Execution Services
+## Portfolio Management using ML
+## Market Microstructure/HFT/Execution Strat
 ## Trading Infrastructure
-## Data Science
-## Deep Learning
-## Web Development (Hobby Projects)
+## Web Development
 
