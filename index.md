@@ -12,6 +12,7 @@
 - Trading Infrastructure
 - Non-Finance Full Stack Data Science Projects, MLOps, Cloud Ops + ML
 - Big Data, Apache Spark, Pipeline (Data Engineering), SQL, MongoDb
+- Cloud Exposure [DigitalOcean, AWS, GCP, Azure]
 - Web Development (Flask, Node.js, React, Golang)
 
 ## Machine Learning in Finance
