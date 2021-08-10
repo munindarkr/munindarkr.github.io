@@ -22,7 +22,6 @@
     -- ASM (Assembly)
     -- Scala
     -- FPGA (Electrical Engg. Background)
-- Non-Finance Full Stack Data Science Projects, MLOps, Cloud Ops + ML
 - Software Development (Tech)
     -- Programming: C++, Python
     -- Databases: SQL, MongoDb
