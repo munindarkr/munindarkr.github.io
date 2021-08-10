@@ -1,20 +1,20 @@
 # Projects and Certifications
 ### Index
+- Alternative Data
+- Finance Projects in C++ (Pricing, Monte Carlo)
+- Low Latency Develepment in C++, STL, Boost, Template Metaprogramming, Scala
 - Machine Learning in Finance
     -- Alternative Data in Finance
 - Deep Learning in Finance
 - Reinforcement Learning in Finance
-- Trading Strategies Research (Alphas)
-- Portfolio Management & Risk Management using ML
-- Market Microstructure/Execution Strategies
-- Trading Tech (High Performance), HFT
-    -- C++ STL, Boost, Metatemplate programming
-    -- KDB+/q
-    -- ASM (Assembly)
-    -- FPGA (Electrical Engineering)
-- Web Development (Full Stack)
-    -- Dashboards (Dash, Flask)
-    -- Javascript
+- Trading Strategies Research
+- Portfolio Management using ML
+- Market Microstructure/HFT/Execution Strat, KDB+/q, RL
+- Trading Infrastructure
+- Non-Finance Full Stack Data Science Projects, MLOps, Cloud Ops + ML
+- Big Data, Apache Spark, Pipeline (Data Engineering), SQL, MongoDb
+- Cloud Exposure [DigitalOcean, AWS, GCP, Azure]
+- Web Development (Flask, Node.js, React, Golang)
 
 <!-- ## Machine Learning in Finance
 ## Deep Learning in Finance
